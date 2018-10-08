@@ -1,5 +1,8 @@
 # MatchingSentencePair
 
-we upload the runnable file first
+We upload the runnable file first
 
-the code with upload soon
+The code will upload soon
+
+The code is based on this link.
+https://github.com/wjbianjason/Dynamic-Clip-Attention
