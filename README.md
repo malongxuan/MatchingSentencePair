@@ -1,8 +1,7 @@
 # MatchingSentencePair
 
-We upload the executable file
+Theano 0.8.2
+python 2.7
+keras 1.0
 
-The full code will upload soon
-
-The code is based on this link.
-https://github.com/wjbianjason/Dynamic-Clip-Attention
+The code is based on https://github.com/wjbianjason/Dynamic-Clip-Attention
